@@ -15,6 +15,7 @@ html {
   right: 0;
   background-color: black;
   height: 46px;
+  z-index: 1;
 }
 
 #nav {
